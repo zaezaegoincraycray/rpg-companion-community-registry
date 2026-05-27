@@ -1599,9 +1599,38 @@
     "has_system": false
   },
   {
+    "name": "Improved-Alchemist-Artificer",
+    "description": "These Modified Rules add buffs and modifications to the alchemist artificer in an effort to help it compete with the other subclasses. details are as posted on dnd next on reddit by Stevek. Full design credit to them.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "artificer"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Improved-Alchemist-Artificer",
+    "repo_url": "https://JayBinx.github.io/Improved-Alchemist-Artificer/",
+    "has_system": false
+  },
+  {
+    "name": "Arificer-5.5",
+    "description": "work in progress! The artificer rules for 5.5 from Eberron - Forge of the Artificer. Battlesmith and Cartographer NOT FULLY IMPLEMENTED",
+    "tags": [
+      "5e2024",
+      "artificer",
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Arificer-5.5",
+    "repo_url": "https://JayBinx.github.io/Arificer-5.5/",
+    "has_system": false
+  },
+  {
     "name": "Solum-Paladin-Oath",
     "description": "An oath for the most devoted Daydarian Paladins",
-    "tags": [],
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
     "stars": 0,
     "github_repo": "zaezaegoincraycray/Solum-Paladin-Oath",
     "repo_url": "https://zaezaegoincraycray.github.io/Solum-Paladin-Oath/",
